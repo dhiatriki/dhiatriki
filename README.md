@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Dhia 👋
 
-<!--
-**dhiatriki/dhiatriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student interested in software testing, test automation, and backend development.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+- Java
+- C#
+- JavaScript
+- SQL
+
+**Testing & Automation**
+- Selenium
+- JUnit
+- Cucumber
+
+**Frameworks**
+- Spring Boot
+- React
+- ASP.NET
+
+**Tools**
+- Git / GitHub
+- Maven
+- Jenkins
+- Docker
+
+## 📚 What I'm Working On
+
+- Improving my test automation skills
+- Learning more about CI/CD and Jenkins
+- Practicing Data Structures & Algorithms
+- Building projects with Spring Boot and React
+
+## 📫 Contact
+
+[LinkedIn]((https://www.linkedin.com/in/dhia-triki-036443305/))
