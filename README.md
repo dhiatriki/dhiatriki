@@ -35,4 +35,4 @@ I'm a Software Engineering student interested in software testing, test automati
 
 ## 📫 Contact
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/dhia-triki-036443305/))
+[LinkedIn](https://www.linkedin.com/in/dhia-triki-036443305/)
